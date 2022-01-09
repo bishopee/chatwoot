@@ -158,9 +158,9 @@ export default {
     }),
     termsLink() {
       return this.$t('REGISTER.TERMS_ACCEPT')
-        .replace('https://www.chatwoot.com/terms', this.globalConfig.termsURL)
+        .replace('https://www.hello24.ng/terms', this.globalConfig.termsURL)
         .replace(
-          'https://www.chatwoot.com/privacy-policy',
+          'https://www.hello24.ng/privacy-policy',
           this.globalConfig.privacyURL
         );
     },

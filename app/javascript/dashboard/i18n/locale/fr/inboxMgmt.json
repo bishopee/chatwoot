@@ -250,7 +250,7 @@
       },
       "AUTH": {
         "TITLE": "Choisir un canal",
-        "DESC": "Chatwoot propose un widget de chat en direct, supporte les pages Facebook, les profils Twitter, Whatsapp, Email etc., en tant que canaux. Si vous voulez construire un canal personnalisé, vous pouvez le créer en utilisant le canal API. Sélectionnez un canal parmi les options ci-dessous pour continuer."
+        "DESC": "Hello24 propose un widget de chat en direct, supporte les pages Facebook, les profils Twitter, Whatsapp, Email etc., en tant que canaux. Si vous voulez construire un canal personnalisé, vous pouvez le créer en utilisant le canal API. Sélectionnez un canal parmi les options ci-dessous pour continuer."
       },
       "AGENTS": {
         "TITLE": "Agents",

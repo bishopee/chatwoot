@@ -132,7 +132,7 @@ then
 echo -en "\n\n***************************************************************************\n"
 echo "Woot! Woot!! Chatwoot server installation is complete"
 echo "The server will be accessible at http://$public_ip:3000"
-echo "To configure a domain and SSL certificate, follow the guide at https://www.chatwoot.com/docs/deployment/deploy-chatwoot-in-linux-vm"
+echo "To configure a domain and SSL certificate, follow the guide at https://www.hello24.ng/docs/deployment/deploy-chatwoot-in-linux-vm"
 echo "***************************************************************************"
 else
 curl https://ssl-config.mozilla.org/ffdhe4096.txt >> /etc/ssl/dhparam
